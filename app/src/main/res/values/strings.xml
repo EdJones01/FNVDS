@@ -1,0 +1,6 @@
+<resources>
+    <plurals name="map_search_location_count">
+        <item quantity="one">%d LOCATION</item>
+        <item quantity="other">%d LOCATIONS</item>
+    </plurals>
+</resources>

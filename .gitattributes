@@ -1,0 +1,25 @@
+# Store text as LF and keep checkouts consistent across platforms.
+* text=auto eol=lf
+
+# Unix wrapper and shell scripts require LF.
+gradlew text eol=lf
+*.sh text eol=lf
+
+# Windows command scripts use CRLF when checked out.
+*.bat text eol=crlf
+*.cmd text eol=crlf
+
+# Keep binary assets and archives unchanged.
+*.jar binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.webp binary
+*.ico binary
+*.zip binary
+*.apk binary
+*.aab binary
+*.dll binary
+*.jks binary
+*.keystore binary

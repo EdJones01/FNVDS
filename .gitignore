@@ -1,0 +1,73 @@
+# Android Studio and Gradle outputs
+.idea/
+*.iml
+.gradle/
+.kotlin/
+**/build/
+local.properties
+.cxx/
+.externalNativeBuild/
+
+# Visual Studio local state
+.vs/
+*.suo
+*.user
+*.sln.docstates
+
+# Native CMake and Ninja generated files
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+install_manifest.txt
+CMakeUserPresets.json
+build.ninja
+rules.ninja
+.ninja_deps
+.ninja_log
+
+# Downloaded dependencies, SDKs, caches, and scratch files
+/work/
+
+# Local signing keys and signing configuration
+*.jks
+*.keystore
+keystore.properties
+key.properties
+release.properties
+signing.properties
+*.p12
+*.pfx
+
+# Local environment overrides (keep shareable examples)
+.env
+.env.*
+!.env.example
+!.env.sample
+
+# Generated binaries (upload release packages as GitHub Release assets)
+/dist/
+*.apk
+*.aab
+*.apks
+*.dex
+*.class
+*.dll
+*.obj
+*.pdb
+*.ilk
+*.exp
+*.pch
+
+# Logs, local game saves, and crash captures
+*.log
+*.fos
+*.nvse
+FNVDS-crash-logcat*.txt
+
+# Operating-system metadata
+Thumbs.db
+Desktop.ini
+.DS_Store
+AGENTS.md
+
