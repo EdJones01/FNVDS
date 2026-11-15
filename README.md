@@ -65,8 +65,6 @@ FNVDS works with both the **Steam and GOG versions of Fallout: New Vegas**. The 
 
 When updating, close the game and replace **both** the APK and DLL with the matching release.
 
-The release APK uses a dedicated signing key. If you installed an earlier debug build, uninstall it once before installing this release; that removes the companion's saved settings and map favourites. Future releases signed with the same release key can update it normally.
-
 ## How it works
 
 The Android companion and xNVSE plugin exchange data over a local TCP bridge on `127.0.0.1:47888`. The bridge listens on loopback and is not exposed as a service on the local Wi-Fi network. The Android app needs network permission for this connection.
