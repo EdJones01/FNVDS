@@ -108,13 +108,13 @@ Replace the example SDK path with the path on your machine. Output: `build/FNVDS
 
 Build the native plugin with the **xNVSE 6.4.9 SDK**, the SDK version used for the packaged builds. The extracted SDK is a separate build dependency and is not included in this repository. Further build instructions are in [BUILDING.md](BUILDING.md); native implementation notes are indexed in [native/README.md](native/README.md).
 
-### Compatibility
+## Compatibility
 
 FNVDS has been tested and works with [Gopher's Stable New Vegas](https://www.nexusmods.com/games/newvegas/collections/60wuix/mods), installed following Gopher's YouTube tutorial, **with OneTweak removed or disabled**.
 
 *Other mod configurations are not confirmed.*
 
-### Built with AI Assistance
+## Built with AI Assistance
 
 This project was developed with significant assistance from OpenAI's Codex. AI was used throughout the development process, including writing code, debugging, researching solutions and producing documentation.
 
