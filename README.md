@@ -8,6 +8,8 @@ FNVDS works with both the **Steam and GOG versions of Fallout: New Vegas**. The 
 
 *[Video Demo](https://youtu.be/81zquuI1nRc)*
 
+*[Discord](https://discord.gg/ErYjYh5Pe)*
+
 ## Features
 
 ### Stats
