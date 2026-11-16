@@ -65,6 +65,8 @@ FNVDS works with both the **Steam and GOG versions of Fallout: New Vegas**. The 
 3. Install `FNVDS.apk` on the Thor.
 4. Launch New Vegas through xNVSE and open FNVDS on the lower display.
 
+**[1 minute install video](https://www.youtube.com/watch?v=kTgBTglyY58)**
+   
 When updating, close the game and replace **both** the APK and DLL with the matching release.
 
 ## How it works
